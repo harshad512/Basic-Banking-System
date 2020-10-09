@@ -1,8 +1,8 @@
 <?php
 	$servername = 'localhost';
-	$user = 'root';
-	$pass = '';
-	$dbname = 'tsf';
+	$user = 'id15068905_task_2';
+	$pass = 'HarshadPatoliya@143';
+	$dbname = 'id15068905_tsf';
 
 	$conn = mysqli_connect($servername,$user,$pass,$dbname);
 
